@@ -36,6 +36,7 @@ ul.myUL{
   line-height: 2.0;}
 
 img{ 
+max-height: 300px;
 max-width: 100%;
 display: block;
 height: auto;
